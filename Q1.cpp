@@ -1,5 +1,8 @@
 /*ANTONY POLY
 01/10/2003
+STUDENT ID: 0137155
+SEMESTER: 1
+LECTURER: MS.BRIDGET
 Bsc Computer Science (ucoms)*/
 
 #include <iostream>
